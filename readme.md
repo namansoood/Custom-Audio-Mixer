@@ -3,7 +3,6 @@ __How To Use:__
 • Add all the audio clips to `Clips` array in AudioGroup.
 • Give each clip an unique ID to make it recognizable.
 • Adjust the desired volume of each audio clip individually.
-
 • Attach the AudioSourceExtension to your audio source.
 • Give it the Audio ID you want the source to play from source.
 • Drag-and-drop the AudioGroup object into `Audio Group` property.
